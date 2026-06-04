@@ -13,6 +13,4 @@ Step 4: Verify the Output
 
 After execution, the following message will appear:
 
-output.json generated successfully!
-
-A file named output.json will be created in the project directory.
+output generated successfully!
